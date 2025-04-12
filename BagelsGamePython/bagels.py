@@ -10,7 +10,7 @@
     - Fermi -> Un chiffre correct, bonne position.
     - Bagels -> Aucun chiffre correct.
 
-    Auteur : ADEBI Ayedoun Châ-Fine achafine@gmail.com
+    Auteur : ADEBI Châ-Fine Ayédoun achafine@gmail.com
     Date : 03/16/2025
 """
 
