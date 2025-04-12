@@ -63,8 +63,8 @@
 - **Installation :**
   1. Clonez le dépôt :
      ```bash
-     git clone https://github.com/votre-utilisateur/password-manager-cli.git
-     cd password-manager-cli
+     git clone https://github.com/memlenz/SmallPythonProjects.git
+     cd SmallPythonProjects/passwordManager
      ```
   2. Rendez le script exécutable (optionnel) :
      ```bash
