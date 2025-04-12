@@ -73,4 +73,4 @@ Vous pouvez modifier les constantes en haut du script pour:
 - Modifier la longueur du nombre secret (DIGIT_LEN)
 
 ## Auteur
-ADEBI Ayedoun Châ-Fine - achafine@gmail.com
+ADEBI Châ-Fine Ayédoun - achafine@gmail.com
